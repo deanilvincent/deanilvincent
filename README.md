@@ -5,7 +5,7 @@
 - Gamer 🎮, nature lover ⛰️, wine & tea drinker 🍷 🍵 & learner 📖.
 
 #### Contact Me:
-- [Email](href="mailto:markdeanilvicente@gmail.com?Subject=Hello!")
+- [Email](mailto:markdeanilvicente@gmail.com?Subject=Hello!)
 - [Website](https://deanilvincent.github.io)
 - [LinkedIn](https://www.linkedin.com/in/mark-deanil-vicente-40676298)
 
