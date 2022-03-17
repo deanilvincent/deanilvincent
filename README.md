@@ -9,3 +9,5 @@
 - [Website](https://deanilvincent.github.io)
 - [LinkedIn](https://www.linkedin.com/in/mark-deanil-vicente-40676298)
 
+#### Library
+👨‍💻 Author & maintainer of a NPM password strength checker. [check-password-strength](https://www.npmjs.com/package/check-password-strength)
