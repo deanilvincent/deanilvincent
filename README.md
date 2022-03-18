@@ -10,4 +10,4 @@
 - [LinkedIn](https://www.linkedin.com/in/mark-deanil-vicente-40676298)
 
 #### Library
-👨‍💻 Author & maintainer of a NPM password strength checker. [![Downloads](https://img.shields.io/npm/dt/check-password-strength.svg)](https://img.shields.io/npm/dt/check-password-strength.svg) [![npm](https://img.shields.io/npm/dm/check-password-strength.svg)](https://img.shields.io/npm/dm/check-password-strength.svg)
+👨‍💻 Author & maintainer of a NPM password strength checker. [check-password-strength](https://github.com/deanilvincent/check-password-strength) [![Downloads](https://img.shields.io/npm/dt/check-password-strength.svg)](https://img.shields.io/npm/dt/check-password-strength.svg) [![npm](https://img.shields.io/npm/dm/check-password-strength.svg)](https://img.shields.io/npm/dm/check-password-strength.svg)
