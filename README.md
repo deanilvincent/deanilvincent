@@ -2,7 +2,7 @@
 
 - An active Microsoft MVP in Developer Technologies Award Category.
 - Fan of technologies & innovations.
-- Gamer 🎮, nature lover ⛰️, wine & tea drinker 🍷 🍵 & learner 📖.
+- Gamer 🎮, nature lover ⛰️, tea drinker 🍷 🍵 & a learner 📖.
 
 #### Contact Me:
 - [Email](mailto:markdeanilvicente@gmail.com?Subject=Hello!)
