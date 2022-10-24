@@ -12,4 +12,7 @@
 #### Library
 👨‍💻 Author & maintainer of a NPM password strength checker. [check-password-strength](https://github.com/deanilvincent/check-password-strength) [![Downloads](https://img.shields.io/npm/dt/check-password-strength.svg)](https://img.shields.io/npm/dt/check-password-strength.svg) [![npm](https://img.shields.io/npm/dm/check-password-strength.svg)](https://img.shields.io/npm/dm/check-password-strength.svg)
 
+<a href="https://www.buymeacoffee.com/dnilvincent" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Tea" height="41" width="174"></a>
+
+
 <em>SOLI DEO GLORIA</em>
