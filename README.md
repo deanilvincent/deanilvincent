@@ -6,7 +6,7 @@
 
 #### Contact Me:
 - [Email](mailto:markdeanilvicente@gmail.com?Subject=Hello!)
-- Personal blog site: [https://dnilvincent.com](https://dnilvincent.com)
+- Personal blog site: [https://dnilvincent.com](https://dnilvincent.net)
 - [LinkedIn](https://www.linkedin.com/in/mark-deanil-vicente-40676298)
 
 #### Library
