@@ -1,6 +1,6 @@
 ### À propos de moi (About Me) 👦
 
-- An active Microsoft MVP in Developer Technologies Award Category.
+- A Microsoft MVP Alumni.
 - Fan of technologies & innovations.
 - Gamer 🎮, nature lover ⛰️, tea drinker 🍷 🍵, cat person 🐈 & a learner 📖.
 - From the Philippines 🇵🇭 🏖️ 🥥
