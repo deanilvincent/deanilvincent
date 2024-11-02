@@ -1,7 +1,7 @@
 ### À propos de moi (About Me) 👦
 
 - Fan of technologies & innovations.
-- A Microsoft MVP Alumni.
+- A Microsoft MVP Alumni in Developer Technologies (2017-2024).
 - Gamer 🎮, nature lover ⛰️, tea drinker 🍷 🍵, cat person 🐈 & a learner 📖.
 - From the Philippines 🇵🇭 🏖️ 🥥
 
