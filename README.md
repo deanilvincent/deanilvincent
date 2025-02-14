@@ -1,7 +1,7 @@
 ### À propos de moi (About Me) 👦
 
 - Fan of technologies & innovations.
-- A Microsoft MVP Alumni in Developer Technologies (2017-2024).
+- A Microsoft MVP Alumni in Developer Technologies (2017-2024) [Verification link](https://www.credly.com/badges/c48c6076-f940-4810-9b8c-263eae846064/public_url).
 - Gamer 🎮, nature lover ⛰️, tea drinker 🍷 🍵, cat person 🐈 & a learner 📖.
 - From the Philippines 🇵🇭 🏖️ 🥥
 
