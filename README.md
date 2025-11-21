@@ -17,7 +17,6 @@
 
 ### Other resources
 
-- Creator of [laszpeek.com](https://laszpeek.com)
-Explore and visualize LAS/LAZ point cloud files with ease.
+- Creator of [laszpeek.com](https://laszpeek.com). A website where you can explore and visualize LAS/LAZ point cloud files with ease.
 
 <em>SOLI DEO GLORIA</em>
