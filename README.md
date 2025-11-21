@@ -15,5 +15,9 @@
 
 <a href="https://www.buymeacoffee.com/dnilvincent" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Tea" height="41" width="174"></a>
 
+### Other resources
+
+- Creator of [laszpeek.com](https://laszpeek.com)
+Explore and visualize LAS/LAZ point cloud files with ease.
 
 <em>SOLI DEO GLORIA</em>
